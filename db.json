@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["A) Paris", "B) London", "C) Rome", "D) Berlin"],
+        "answer": "A"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["A) Jupiter", "B) Mars", "C) Saturn", "D) Venus"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["A) Ag", "B) Au", "C) Hg", "D) Fe"],
+        "answer": "B"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["A) Pablo Picasso", "B) Leonardo da Vinci", "C) Vincent van Gogh", "D) Michelangelo"],
+        "answer": "B"
+      },
+      {
+        "question": "Which is the largest ocean on Earth?",
+        "options": ["A) Pacific Ocean", "B) Indian Ocean", "C) Atlantic Ocean", "D) Arctic Ocean"],
+        "answer": "A"
+      },
+      {
+        "question": "Who is the author of the Harry Potter book series?",
+        "options": ["A) J.R.R. Tolkien", "B) J.K. Rowling", "C) George R.R. Martin", "D) Stephen King"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the national animal of Australia?",
+        "options": ["A) Kangaroo", "B) Koala", "C) Emu", "D) Platypus"],
+        "answer": "A"
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["A) China", "B) Japan", "C) South Korea", "D) Thailand"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the largest organ in the human body?",
+        "options": ["A) Liver", "B) Brain", "C) Heart", "D) Skin"],
+        "answer": "D"
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Nikola Tesla", "D) Galileo Galilei"],
+        "answer": "B"
+      }
+    ]
+  }
+  
